@@ -16,3 +16,4 @@ void badUse2() {
 int goodUse() {
   return someFunc1();
 }
+
